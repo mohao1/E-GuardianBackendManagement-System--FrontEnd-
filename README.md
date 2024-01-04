@@ -3,6 +3,8 @@
 ## 介绍
 E守护-后台管理系统-前端代码
 
+<img alt="logo" height="200" src="096216942de88972e581942d8f4230a.png" width="200"/>
+
 
 #### 软件架构
 
@@ -13,6 +15,7 @@ E守护-后台管理系统-前端代码
 5. Element-UI组件库
 6. VUE-ADMIN-TEMPLATE模板
 7. e-Chart图表
+
 
 #### 安装教程
 
