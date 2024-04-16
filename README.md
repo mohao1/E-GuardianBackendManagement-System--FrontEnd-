@@ -8,10 +8,10 @@ E守护-后台管理系统-前端代码
 ### 项目地址
 1. 后端：
 - Gitee: https://gitee.com/mohaos/backend-of-e-guard
-- GitHub: 待定
+- GitHub: https://github.com/mohao1/E-GuardedBackend
 2. 后台管理系统-前端：
 - Gitee: https://gitee.com/mohaos/e-shouhu-UI
-- GitHub: 待定
+- GitHub: https://github.com/mohao1/E-GuardianBackendManagement-System--FrontEnd-
 
 
 ## 软件架构
